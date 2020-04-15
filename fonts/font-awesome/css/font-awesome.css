@@ -200,7 +200,7 @@
   content: "\f00b";
 }
 .fa-check:before {
-  content: "\f00c";
+  content: "\f0e8";
 }
 .fa-remove:before,
 .fa-close:before,
@@ -221,7 +221,7 @@
 }
 .fa-gear:before,
 .fa-cog:before {
-  content: "\f013";
+  content: "\f140";
 }
 .fa-trash-o:before {
   content: "\f014";
@@ -479,7 +479,7 @@
   content: "\f06b";
 }
 .fa-leaf:before {
-  content: "\f06c";
+  content: "\f0d6";
 }
 .fa-fire:before {
   content: "\f06d";
@@ -681,7 +681,7 @@
 }
 .fa-group:before,
 .fa-users:before {
-  content: "\f0c0";
+  content: "\f02d";
 }
 .fa-chain:before,
 .fa-link:before {
@@ -899,7 +899,7 @@
   content: "\f107";
 }
 .fa-desktop:before {
-  content: "\f108";
+  content: "\f040";
 }
 .fa-laptop:before {
   content: "\f109";
@@ -1385,7 +1385,7 @@
   content: "\f1ad";
 }
 .fa-child:before {
-  content: "\f1ae";
+  content: "\f0a3";
 }
 .fa-paw:before {
   content: "\f1b0";
@@ -1627,7 +1627,7 @@
   content: "\f1fd";
 }
 .fa-area-chart:before {
-  content: "\f1fe";
+  content: "\f0f7";
 }
 .fa-pie-chart:before {
   content: "\f200";
